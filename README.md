@@ -1,10 +1,20 @@
 # 👋 Hi, I'm Harshit Tiwari  
 
 🚀 **Aspiring Data Scientist & Full-Stack Developer**  
-💡 Passionate about **AI, Machine Learning, and Web Development**  
+💡 Passionate about building intelligent solutions with **AI, Machine Learning, and Web Development**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-tiwari-7072512ba)  
 📧 harshit072005@gmail.com  
+
+---
+
+## 🌱 About Me  
+
+- 🎓 Pursuing **B.Tech CSE (Big Data Analytics)** @ SRM Institute of Science and Technology (Graduating 2027)  
+- 🧠 Skilled in **Machine Learning, Data Analytics, and Full-Stack Web Development**  
+- 💡 Interested in solving **real-world problems** through AI-driven solutions  
+- 🤝 Open to **collaborations, internships, and exciting project opportunities**  
+- ⚡ Motto: *“Code. Learn. Build. Repeat.”*  
 
 ---
 
@@ -46,21 +56,3 @@
 🤖 *A machine learning model that predicts whether a sonar signal is from a rock or a mine.*  
 
 ---
-
-## 🌱 About Me  
-
-- 🎓 Pursuing **B.Tech CSE (Big Data Analytics)** @ SRM Institute of Science and Technology (Graduating 2027)  
-- 📚 Strong interests in **AI-driven solutions, Data Analytics, and Full-Stack Development**  
-- ⚡ Enthusiastic about **learning, building, and solving real-world problems**  
-
----
-
-## 📊 GitHub Stats  
-
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshit072005&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit072005&layout=compact&theme=tokyonight&hide_border=true)  
-
----
-
-✨ *“Code. Learn. Build. Repeat.”* ✨
-
